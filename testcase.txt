@@ -1,0 +1,6 @@
+5 5 5
+#
+5b 4b 3b 2b 1b 1r 2n
+5g 4g 4r 5r
+5p 4p 3p 2p 1p 1g 3r
+5n 4n 3n 2r 2g 3g 1n
